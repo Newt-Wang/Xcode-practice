@@ -3,7 +3,8 @@
 //  HelloApp
 //
 //  Created by 牛特 on 2026/11/2.
-//
+//111111111
+
 
 import SwiftUI
 
@@ -12,7 +13,7 @@ struct ContentView: View {
 
     var body: some View {
         VStack(spacing: 24) {
-            Text("你好，煜泽！")
+            Text("你好，煜泽！nihao")
                 .font(.largeTitle)
 
             Text("这是我的第一个小App")
